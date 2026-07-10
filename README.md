@@ -19,5 +19,15 @@ now for my frame design <img width="1008" height="589" alt="image" src="https://
 for me it is very important to keep the Third dimenson so the frame has more hold.
 now for my messurements i went with a length of 1,6m and with of 80cm also a hight of about 40cm with the wheels.
 
-Now to the Files so you can tweak and adjust it to your likning
+Now to the Files so you can tweak and adjust it to your likening
 
+WARNING when i build it myself i will do a better description of the prosess
+
+Frame:
+-For the frame you want to cut the pieces of Profield Aluminium tothe correct messurements, use the messuing tool in blender or your cad software.
+-Now use the Hardware to connect the pieces at the right spots and make a strong connection becaus it is just bolts and 90degree pieces it should be easy.
+-using the plates you will cut a floor for your cart, and make your own hardware to use for the none 90degree connections.
+-If welding possible and the required skill is available use it and weld the connections for a stronger bond.
+-Now the frame is done next part will be available once the frame is done.
+
+To be Continiued
