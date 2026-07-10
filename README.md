@@ -18,3 +18,6 @@ Now i went with the 30x 30 mm options that come in 12x 2m but ofcorse you are we
 now for my frame design <img width="1008" height="589" alt="image" src="https://github.com/user-attachments/assets/f8f658f7-49df-41b0-981a-8ae5a0920f49" />
 for me it is very important to keep the Third dimenson so the frame has more hold.
 now for my messurements i went with a length of 1,6m and with of 80cm also a hight of about 40cm with the wheels.
+
+Now to the Files so you can tweak and adjust it to your likning
+
